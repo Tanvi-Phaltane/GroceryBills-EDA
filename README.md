@@ -6,7 +6,7 @@ Mainly two types of data obtained: Images (JPEG) of bills
                                    Transactions (date, description, amount) data stored in tables
                                    
 2) Data processing: 
-  Python libraries for analysis: splitwise, PIL, pytesseract, requests, nltk, shutil, json, sklearn, pandas
+  Python libraries for analysis: splitwise, PIL, pytesseract, requests, nltk, shutil, json, sklearn, pandas. 
   Transactions data was used for data visualisation
   NLP analysis of grocery bills
   
